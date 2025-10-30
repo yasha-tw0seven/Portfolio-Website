@@ -58,7 +58,7 @@ export function Hero() {
             <div className="relative">
               <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl">
                 <ImageWithFallback
-                  src="https://drive.google.com/uc?export=view&id=13ey90u0PACvikVM2P0j5uOtQ_mSh3a3f"
+                  src="https://raw.githubusercontent.com/yasha-tw0seven/Portfolio-Website/refs/heads/main/ychavan.jpeg"
                   alt="Yashanjali Chavan - Data Analyst"
                   className="w-full h-full object-cover"
                 />

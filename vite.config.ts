@@ -4,7 +4,10 @@
   import path from 'path';
 
   export default defineConfig({
-    base: "/Portfolio-Website/",
+    base: '/Portfolio-Website/',
+    build: {
+      outDir: "dist" 
+    },
     plugins: [react()],
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],

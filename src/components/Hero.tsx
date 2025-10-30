@@ -56,13 +56,13 @@ export function Hero() {
           </div>
           <div className="flex justify-center lg:justify-end">
             <div className="relative">
-              <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl">
+              {/* <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-primary/20 shadow-2xl">
                 <ImageWithFallback
                   src="https://raw.githubusercontent.com/yasha-tw0seven/Portfolio-Website/refs/heads/main/ychavan.jpeg"
                   alt="Yashanjali Chavan - Data Analyst"
                   className="w-full h-full object-cover"
                 />
-              </div>
+              </div> */}
               <div className="absolute -bottom-6 -right-4 w-24 h-24 bg-primary rounded-full flex items-center justify-center text-primary-foreground shadow-lg"
                 onClick={() => {
                   const section = document.getElementById("about"); // ID of the section to scroll to

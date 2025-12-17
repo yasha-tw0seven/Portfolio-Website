@@ -23,7 +23,7 @@ export function Hero() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start mb-8">
               <a
-                href="https://drive.google.com/uc?export=download&id=YOUR_FILE_ID"
+                href="https://raw.githubusercontent.com/yasha-tw0seven/Portfolio-Website/main/ychavan_resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer">
                 <Button
